@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768457564.177714,
+    "completed_at": 1768457566.332706,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768457718.317365,
+    "completed_at": 1768457720.462528,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768422950.906678,
+    "completed_at": 1768422952.471329,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768424749.568493,
+    "completed_at": 1768424750.973398,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768424916.868322,
+    "completed_at": 1768424918.200459,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]

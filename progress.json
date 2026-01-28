@@ -167,5 +167,14 @@
       "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. contains an invalid item."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769611236.72317,
+    "completed_at": 1769611239.897665,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
   }
 ]

@@ -221,5 +221,14 @@
       "Great work comparing commits in git history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769661883.282964,
+    "completed_at": 1769661887.060166,
+    "comments": [
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
   }
 ]
